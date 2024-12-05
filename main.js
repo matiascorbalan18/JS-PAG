@@ -7,9 +7,9 @@ function randomBetween(min, max) {
 
 let circles = [];
 
-const colors = ["#FB9062", "#D65361", "#6A0D83"];
+const colors = ["#FFD54F", "#FFF8E1", "#FF6F00"];
 
-document.body.style.backgroundColor = "#211951";
+document.body.style.backgroundColor = "#704204";
 
 function initCircles() {
     circles = [];
